@@ -1,0 +1,2 @@
+# USA-Flights-Data-Analysis
+This course project uses MySQL to analyze the state of the U.S. airline industry in 2015. It examines key metrics such as the frequency of flight delays, reasons for cancellations, departure frequencies of airlines from various airports, and total flight distances. The analysis also identifies the average and maximum airtime of flights, as well as the most common reasons for cancellations. The project offers valuable insights into flight performance and reliability during the period.
